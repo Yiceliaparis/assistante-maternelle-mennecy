@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yicelia-assistante-maternelle.fr/sitemap.xml
